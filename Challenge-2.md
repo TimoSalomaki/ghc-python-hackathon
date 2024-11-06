@@ -25,7 +25,7 @@ In this challenge, you'll debug and fix a forked version of HTTPie that contains
 - GitHub Copilot
 
 ### Setup Instructions
-1. Clone the challenge repository to your machine from https://github.com/TimoSalomaki/cli
+1. Clone the challenge repository to your machine from https://github.com/TimoSalomaki/httpie_cli
 2. Follow the local [development setup guidance](https://github.com/httpie/cli/blob/master/CONTRIBUTING.md#development-environment) to get the dev environment up and running. If you have trouble getting Make to run, follow this [Windows specific guidance](https://github.com/httpie/cli/blob/master/CONTRIBUTING.md#windows).
 
 3. Verify the Installation
