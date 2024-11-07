@@ -1,6 +1,6 @@
-# Photo Editor Hackathon  
+# Photo Editor Challenge  
   
-Welcome to the Photo Editor Hackathon! You are tasked with enhancing a super bare-bones Python photo editor with essential functionalities. As the last developer on earth who can implement these features, your mission is to make this photo editor fully functional and user-friendly. Let's dive into the required enhancements.  
+Welcome to the Photo Editor Challenge! You are tasked with enhancing a super bare-bones Python photo editor with essential functionalities. As the last developer on earth who can implement these features, your mission is to make this photo editor fully functional and user-friendly. Let's dive into the required enhancements.  
 
 ## Original code
 
